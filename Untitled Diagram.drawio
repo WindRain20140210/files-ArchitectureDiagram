@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T08:28:55.892Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="T7Pk__vbLDFmBeHoywgm" version="14.6.13" type="github"><diagram id="0uMvrWpQkgOffhEk1B4T" name="Page-1">1Zpdk6I4FIZ/TS57Cgifl6A4fTEzNbVd+zFXW6yklV00DsZW59fvOSGImEx3b5UatsqL5CQBeXLOyZsAoZPV4WNTbJafeclq4jnlgdAp8TzX9zyCP6c8tpYoVIZFU5WqU294qn4wZXSUdVeVbDvoKDivRbUZGud8vWZzMbAVTcP3w27PvB7edVMsmGZ4mhe1bv29KsWytcZe1NsfWbVYdnd2w6RtWRVdZ/Uk22VR8v2ZieaEThrORVtaHSasRngdl3bc7Cetpz/WsLV4z4Af2fHLn7897h+yKPK//vLREdNfH3z1HFtx7J6YlQBAVXkjlnzB10Wd99as4bt1yfCyDtT6Pp8434DRBePfTIijms1iJziYlmJVq1Z2qMQfOPxDoGrfzlqmB3VlWTl2lbVoju2gMO7qOOzB+eA4tLP0g2VtMPora6oVE6xRxvbR8Xl/ilSZtnzXzNkrHDvXLJoFE6/0C04TDxHDOPyb5gjjGlYXonoZ/o9Cue7i1K+fXSioCf4Pk62u+1LUO3UnbfKHU7tfVoI9bQr56HsI8OE0Pld1PeE1b+RY+hzP2XwO9q1o+D/srOWvOPCDnvgLawQ7vM5cZ6QGxCqcVD5xu/Da99EZdn2WZ5EZOjei6ulU84DEOUlmJI9I4kMh3WxeQe2+jfoK4Fz3ghwNNHInmufk6K3IUY3cY4DIsilJXJInJHVJFlgHF1y6nHVwwZUD+fph6RnCMnBMjG4Wl5EhLn2SpST1SR6SJCYJld6WyUiFppjAU/T+B0EckIxiZ4jmNFCWtpC5JLZP3XXoEHugY/cDA3b/VtRjM3WAnUp+KQb1dfgVdbVYQ7lmz+I2OKnzTpyn3Hp1nomBZ4gOm0wkzxnJHEyV4LlIGFDPJOGIpODOmUSdYjcopNA5GbjzOL04cG17sWuSSmGNblZWL1BctB7XmrabYn2y4ewEclKA85Sk+Rnntjv8o8GI3jy49rhCg9LhHPlUnyPPtAjeLL+7unxYbY/fa+vuTBNviMrX9UJ0T7ng+hqphpXV1jopP6IjI2VQVqjhE1QJGMdTDG7b2NzgYpkyiK37YjNpLVhv5O4H82CCcktJLAkyHgVIyGIjA2la7hMUqllI8hhX8NjFAjhiOpEFn6ShdZCaR4aWQXYTeambQrkyx7gatyoJHBQlfgtyah2k5pHWQRqUEMQvqM9MCnrYTAFUtMykBZRohLsn2yAv9Yp9kJ4BJGyLcsyF6H+QFP0zC1RjzJe2Qfre2EDquk+mRtjTeP3S0m6ScJcjs2Zqf5ejgbS92Hi6LJSBnOHqgiCdLqIdEoeqCbxzNMlSi3HrRE2nH9pufWQ7u4uTu9Cw+b7zgbpJBOknd5rFtju6yQVJz/Y5MTWpIH3xHh1J2p2wj4ekSQaZzjWhgCkSNJBMmrZJ+pfRbZ+kafmGnfVEHr6HUvXoL6XvzS30RsfNtFrH6HXxRHKj+HICQ3jS6Ufpk9ZJ+kOSp0Pbt0jebH3x3/H67A4fQbT3vMrXB126fPPzg9aJbH1/QE2na4HMlNKFQVKm/wcXpoaz7/u6MA3Ny9GFREowJSBJ+U4TX0WMnq3pvcK12EK1/9xKtp19tEbzfwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-20T08:30:26.468Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="TD412v1XDnhh1SXJghRL" version="14.6.13" type="github">
+  <diagram id="0uMvrWpQkgOffhEk1B4T" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zByN_VHw-B774PRG0tDU-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.68;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zByN_VHw-B774PRG0tDU-1" target="zByN_VHw-B774PRG0tDU-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-2" value="原生App" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="135" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-3" value="H5网页" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="135" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cZnmer16mFZGIxQgFDQ7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.369;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zByN_VHw-B774PRG0tDU-5" target="zByN_VHw-B774PRG0tDU-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="220" width="500" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-7" value="交易统一网关接入层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="103" y="250" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-8" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="103" y="300" width="450" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-9" value="柜台通信程序对接层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="103" y="510" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-11" value="&lt;div&gt;&lt;span&gt;数据层&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="333" y="430" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-13" value="msyql" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="392" y="445" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-14" value="redis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="473" y="445" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-15" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="153" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-17" value="委托下单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="243" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-19" value="银证转账" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="153" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-20" value="新股申购" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="243" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-21" value="场外基金" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="333" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-22" value="融资融券" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="423" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-23" value="订单查询" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="423" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-24" value="国债逆回购" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="333" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-28" value="柜台" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="80" y="610" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-29" value="交易交易" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="625" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-30" value="场外交易" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="625" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-31" value="业务办理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="625" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-33" value="开户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="625" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-34" value="行情服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zByN_VHw-B774PRG0tDU-35" target="zByN_VHw-B774PRG0tDU-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-35" value="同步服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="640" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cZnmer16mFZGIxQgFDQ7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zByN_VHw-B774PRG0tDU-36" target="zByN_VHw-B774PRG0tDU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zByN_VHw-B774PRG0tDU-36" value="交易配置服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="640" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
