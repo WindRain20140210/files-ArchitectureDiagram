@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T09:53:20.977Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ZTUZlP_qiIr2vzZb1g84" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T10:05:13.081Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="7GOfZ_A8NK6PbDCOzqhl" version="14.6.13" type="github">
   <diagram id="3lhguGQAlMddKLs95MFt" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="CYO2_2fLI4KjkD6trNG--94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYO2_2fLI4KjkD6trNG--29" target="CYO2_2fLI4KjkD6trNG--36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYO2_2fLI4KjkD6trNG--29" target="CYO2_2fLI4KjkD6trNG--107">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYO2_2fLI4KjkD6trNG--29" target="CYO2_2fLI4KjkD6trNG--107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--29" value="静态资源服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -53,6 +53,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="703.8400000000001" y="101.98000000000002" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CYO2_2fLI4KjkD6trNG--130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYO2_2fLI4KjkD6trNG--36" target="CYO2_2fLI4KjkD6trNG--107">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--36" value="cdn分发网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="643" y="120" width="120" height="40" as="geometry" />
