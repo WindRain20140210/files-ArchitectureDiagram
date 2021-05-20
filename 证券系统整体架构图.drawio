@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T09:25:33.004Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Kep7vmmF7PukDQJbJYEa" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T09:28:05.556Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="hLSl0Rr4Lvmvp9y6DksT" version="14.6.13" type="github">
   <diagram id="3lhguGQAlMddKLs95MFt" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,8 +16,11 @@
         <mxCell id="CYO2_2fLI4KjkD6trNG--74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYO2_2fLI4KjkD6trNG--5" target="CYO2_2fLI4KjkD6trNG--24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CYO2_2fLI4KjkD6trNG--113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYO2_2fLI4KjkD6trNG--5" target="CYO2_2fLI4KjkD6trNG--110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="40" y="262" width="580" height="350" as="geometry" />
+          <mxGeometry x="40" y="310" width="580" height="302" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--24" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="629" width="580" height="60" as="geometry" />
@@ -52,13 +55,16 @@
         <mxCell id="CYO2_2fLI4KjkD6trNG--81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYO2_2fLI4KjkD6trNG--37" target="CYO2_2fLI4KjkD6trNG--38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--37" value="nginx服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--37" value="nginx服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="580" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--82" value="rpc泛化调用" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CYO2_2fLI4KjkD6trNG--38">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--82" value="rpc泛化调用" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYO2_2fLI4KjkD6trNG--38" target="CYO2_2fLI4KjkD6trNG--5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CYO2_2fLI4KjkD6trNG--115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.42;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CYO2_2fLI4KjkD6trNG--38" target="CYO2_2fLI4KjkD6trNG--110">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--38" value="统一接入网关（API路由，熔断降级sentinel，统一登录，加解密）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="181" width="580" height="40" as="geometry" />
@@ -100,49 +106,52 @@
           <mxGeometry x="610" y="55" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--51" value="交易业务系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="322" width="120" height="40" as="geometry" />
+          <mxGeometry x="60" y="383" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--55" value="交易任务系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="372" width="120" height="40" as="geometry" />
+          <mxGeometry x="60" y="433" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--56" value="交易配置系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="422" width="120" height="40" as="geometry" />
+          <mxGeometry x="60" y="483" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--57" value="资讯抓取系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="322" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="383" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--60" value="资讯模板系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="372" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="433" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--61" value="资讯分发系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="422" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="483" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--62" value="流程审核系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="472" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="533" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--58" value="用户系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="322" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="383" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--63" value="自选系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="372" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="433" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--64" value="关注系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="422" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="483" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--65" value="消息中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="472" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="533" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--59" value="页面配置系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="322" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="383" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--70" value="业务配置系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="372" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="433" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--71" value="推送系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="422" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="483" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--107" value="云存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CYO2_2fLI4KjkD6trNG--110" value="统一接入网关后台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
