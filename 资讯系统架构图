@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T07:53:07.570Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="da5p05m-N4rTuBcTGmO0" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T08:13:30.205Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Q-8qHkBSi6eIyiUkagCn" version="14.6.13" type="github">
   <diagram id="23XYlJPSv8epxcbogqfn" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,8 +127,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="519" />
-              <mxPoint x="600" y="519" />
-              <mxPoint x="600" y="303" />
+              <mxPoint x="613" y="519" />
+              <mxPoint x="613" y="303" />
               <mxPoint x="703" y="303" />
             </Array>
           </mxGeometry>
@@ -146,13 +146,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bkN-nmoROHHrUjdpNHoZ-43" value="资讯模板" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="353.5" y="379" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="382" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bkN-nmoROHHrUjdpNHoZ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="bkN-nmoROHHrUjdpNHoZ-47" target="bkN-nmoROHHrUjdpNHoZ-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="459" />
-              <mxPoint x="480" y="294" />
+              <mxPoint x="499" y="459" />
+              <mxPoint x="499" y="294" />
               <mxPoint x="703" y="294" />
             </Array>
           </mxGeometry>
@@ -161,7 +161,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bkN-nmoROHHrUjdpNHoZ-47" value="公告抓取" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="459" width="120" height="40" as="geometry" />
+          <mxGeometry x="388" y="459" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bkN-nmoROHHrUjdpNHoZ-50" value="云存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="643" y="245" width="120" height="30" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry x="370" y="240" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bkN-nmoROHHrUjdpNHoZ-52" value="资讯综合服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="324" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="315" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bkN-nmoROHHrUjdpNHoZ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bkN-nmoROHHrUjdpNHoZ-53" target="bkN-nmoROHHrUjdpNHoZ-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -197,7 +197,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bkN-nmoROHHrUjdpNHoZ-101" value="公告同步客户端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="409" width="100" height="40" as="geometry" />
+          <mxGeometry x="508" y="409" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
