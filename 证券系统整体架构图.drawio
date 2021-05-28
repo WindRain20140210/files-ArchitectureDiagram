@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T07:50:37.564Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="a0xUAvgzESNeT6qOdk3Q" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T08:11:44.071Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Qh7jCuQTHJWwnoJyvaxU" version="14.6.13" type="github">
   <diagram id="3lhguGQAlMddKLs95MFt" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,19 +149,22 @@
           <mxGeometry x="340" y="484" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--59" value="页面配置系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="334" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--70" value="业务配置系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="384" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--71" value="推送系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--70" value="业务配置系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="434" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CYO2_2fLI4KjkD6trNG--71" value="推送系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="484" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--107" value="云存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="643" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--110" value="统一接入网关后台（api接入注册及管理）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="370" y="240" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENv6MO2x05NuHd_LTSQ5-1" value="业务聚合服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="334" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
