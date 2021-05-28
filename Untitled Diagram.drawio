@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T07:51:20.801Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ysXobauAdqy36ZZRB6Bq" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T08:13:52.335Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="l-TNcq0i4Ns8jPu6__9M" version="14.6.13" type="github">
   <diagram id="0uMvrWpQkgOffhEk1B4T" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
         <mxCell id="zByN_VHw-B774PRG0tDU-28" value="柜台" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="610" width="680" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zByN_VHw-B774PRG0tDU-29" value="交易交易" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zByN_VHw-B774PRG0tDU-29" value="集中交易" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="625" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zByN_VHw-B774PRG0tDU-30" value="场外交易" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
