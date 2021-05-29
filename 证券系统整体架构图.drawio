@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T06:55:07.909Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="a5eutWO-tUaPvzbbQy2A" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T08:18:20.186Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="-nkw-vXCgGFHbcUHY9Lj" version="14.6.13" type="github">
   <diagram id="3lhguGQAlMddKLs95MFt" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,46 +120,46 @@
         <mxCell id="CYO2_2fLI4KjkD6trNG--86" value="小程序" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="55" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--51" value="交易业务系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--51" value="交易业务服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="334" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--55" value="交易任务系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--55" value="交易任务服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="384" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--56" value="交易配置系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--56" value="交易配置服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="434" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--57" value="资讯抓取系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--57" value="资讯同步服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="334" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--60" value="资讯模板系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--60" value="资讯模板服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="384" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--61" value="资讯分发系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--61" value="资讯分发服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="434" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--62" value="流程审核系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--62" value="流程审核服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="484" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--58" value="用户系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--58" value="用户服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="334" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--63" value="自选系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--63" value="自选服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="384" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--64" value="关注系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--64" value="关注服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="434" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--65" value="消息中心" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--65" value="消息服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="484" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--59" value="页面配置系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--59" value="页面配置服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="384" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--70" value="其他服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="486" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYO2_2fLI4KjkD6trNG--71" value="推送系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CYO2_2fLI4KjkD6trNG--71" value="推送服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="434" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYO2_2fLI4KjkD6trNG--107" value="云存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
