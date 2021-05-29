@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T12:01:26.544Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="BVb5R7cyx_bqGmqxleii" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T07:53:40.370Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="3sqQoS4lLiBG3-q6vhQi" version="14.6.13" type="github">
   <diagram id="23XYlJPSv8epxcbogqfn" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
         <mxCell id="FRKhcVLMxA3gjyMXfTpW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkN-nmoROHHrUjdpNHoZ-36" target="bkN-nmoROHHrUjdpNHoZ-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bkN-nmoROHHrUjdpNHoZ-36" value="资讯抓取" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bkN-nmoROHHrUjdpNHoZ-36" value="资讯同步" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="459" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bkN-nmoROHHrUjdpNHoZ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bkN-nmoROHHrUjdpNHoZ-39" target="bkN-nmoROHHrUjdpNHoZ-52" edge="1">
@@ -160,7 +160,7 @@
         <mxCell id="FRKhcVLMxA3gjyMXfTpW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.917;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bkN-nmoROHHrUjdpNHoZ-47" target="bkN-nmoROHHrUjdpNHoZ-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bkN-nmoROHHrUjdpNHoZ-47" value="公告抓取" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bkN-nmoROHHrUjdpNHoZ-47" value="公告同步" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="388" y="459" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bkN-nmoROHHrUjdpNHoZ-50" value="云存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
