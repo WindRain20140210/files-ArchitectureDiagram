@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T04:16:31.881Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="spPbttovPplz1TefTLSm" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-08T04:18:38.345Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="CH0qmXygtK4oHd5hb2K-" version="14.7.6" type="github">
   <diagram id="X9E-beKe1SduU7O__Zo1" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,13 +13,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JChcGqBiLUxeW3eqoY_Q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JChcGqBiLUxeW3eqoY_Q-3" target="JChcGqBiLUxeW3eqoY_Q-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="199" />
+              <mxPoint x="485" y="242" />
+              <mxPoint x="617" y="242" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JChcGqBiLUxeW3eqoY_Q-3" value="原生APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="381" y="139" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JChcGqBiLUxeW3eqoY_Q-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JChcGqBiLUxeW3eqoY_Q-4" target="JChcGqBiLUxeW3eqoY_Q-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="889" y="199" />
+              <mxPoint x="889" y="242" />
+              <mxPoint x="755" y="242" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JChcGqBiLUxeW3eqoY_Q-4" value="H5/小程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="850" y="139" width="120" height="60" as="geometry" />
@@ -76,13 +88,16 @@
           <mxGeometry x="576" y="368" width="92" height="39" as="geometry" />
         </mxCell>
         <mxCell id="JChcGqBiLUxeW3eqoY_Q-38" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="703" y="366" width="92" height="39" as="geometry" />
+          <mxGeometry x="576" y="436" width="92" height="39" as="geometry" />
         </mxCell>
         <mxCell id="JChcGqBiLUxeW3eqoY_Q-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="837" y="284" width="160" height="265" as="geometry" />
         </mxCell>
         <mxCell id="JChcGqBiLUxeW3eqoY_Q-40" value="行情" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="874" y="303" width="92" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="JChcGqBiLUxeW3eqoY_Q-41" value="配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="703" y="368" width="92" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
