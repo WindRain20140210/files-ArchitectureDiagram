@@ -1,1 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T06:22:52.194Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.7.6" etag="xtXN0WD5OeTSRs-Uk1j7" type="github"><diagram id="x28ixuYXH-0pbflDaSd9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-08T06:42:22.596Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="VFj2CCZUItFPF61djXiD" version="14.7.6" type="github">
+  <diagram id="x28ixuYXH-0pbflDaSd9" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-1" value="客户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="109" width="100" height="493" as="geometry" />
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-2" value="统一登录" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="109" width="100" height="495" as="geometry" />
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="XP9ClPk6r2E8nxNpTTTT-2">
+          <mxGeometry x="48" y="78" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-3" value="交易前置" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="328" y="109" width="100" height="495" as="geometry" />
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="XP9ClPk6r2E8nxNpTTTT-3">
+          <mxGeometry x="45" y="189" width="10" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="XP9ClPk6r2E8nxNpTTTT-3">
+          <mxGeometry x="45" y="376" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-4" value="柜台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="109" width="100" height="495" as="geometry" />
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="XP9ClPk6r2E8nxNpTTTT-4">
+          <mxGeometry x="45" y="186" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="XP9ClPk6r2E8nxNpTTTT-4">
+          <mxGeometry x="45" y="372" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-9" value="普通登录" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="XP9ClPk6r2E8nxNpTTTT-8" parent="1" source="XP9ClPk6r2E8nxNpTTTT-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="178" y="187" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-10" value="返回唯一标识" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="XP9ClPk6r2E8nxNpTTTT-8" parent="1" target="XP9ClPk6r2E8nxNpTTTT-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="178" y="263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-19" value="交易登录（携带普通登录唯一标识，设备id）" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.2;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XP9ClPk6r2E8nxNpTTTT-15">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="129" y="313" as="sourcePoint" />
+            <mxPoint x="209" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-20" value="交易登录" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.2;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XP9ClPk6r2E8nxNpTTTT-16">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="384" y="323" as="sourcePoint" />
+            <mxPoint x="464" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-21" value="交易登录态" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.1;exitY=0.763;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="501" y="359.03999999999996" as="sourcePoint" />
+            <mxPoint x="383" y="359" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-22" value="j交易前置服务的登录态" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.54;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XP9ClPk6r2E8nxNpTTTT-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="368" y="409" as="sourcePoint" />
+            <mxPoint x="288" y="409" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-26" value="请求交易业务（携带交易前置服务登录态）" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="125" y="507" as="sourcePoint" />
+            <mxPoint x="372" y="507" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-27" value="请求柜台&lt;br&gt;（用交易前置登录态&lt;br&gt;换取交易登录态）" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.1;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="384" y="514" as="sourcePoint" />
+            <mxPoint x="501" y="514" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-28" value="返回业务结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.1;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="498" y="541" as="sourcePoint" />
+            <mxPoint x="384" y="539.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XP9ClPk6r2E8nxNpTTTT-29" value="返回业务结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="XP9ClPk6r2E8nxNpTTTT-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374" y="550" as="sourcePoint" />
+            <mxPoint x="130" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
