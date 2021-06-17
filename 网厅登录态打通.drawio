@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T08:34:13.541Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.7.6" etag="9atKvyLjnYr1Ci9iIJWZ" type="github"><diagram id="GFoYc8BtrtbXunvrwoht">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-17T08:48:52.065Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="dS4OeNAA6HdfObwx4R1u" version="14.7.6" type="github">
+  <diagram id="GFoYc8BtrtbXunvrwoht" name="Page-1">
+    <mxGraphModel dx="1822" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="honSXBm70pdKDiRq7yCq-1" value="JD客户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-41" y="103" width="100" height="498" as="geometry" />
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-2" value="券商跳转页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="103" width="100" height="499" as="geometry" />
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-3" value="券商业务后台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="101" width="100" height="503" as="geometry" />
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-4" value="JD交易后台（券商机房）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="558" y="101" width="100" height="504" as="geometry" />
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="honSXBm70pdKDiRq7yCq-4">
+          <mxGeometry x="45" y="131" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-5" value="券商鉴权后台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="747" y="101" width="100" height="504" as="geometry" />
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="honSXBm70pdKDiRq7yCq-5">
+          <mxGeometry x="45" y="262" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="honSXBm70pdKDiRq7yCq-5" source="honSXBm70pdKDiRq7yCq-18" target="honSXBm70pdKDiRq7yCq-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="75" y="302" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-31" value="验证交易Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="honSXBm70pdKDiRq7yCq-29">
+          <mxGeometry x="-0.5667" relative="1" as="geometry">
+            <mxPoint x="51" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-7" value="JD Token" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" target="honSXBm70pdKDiRq7yCq-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="10" y="190" as="sourcePoint" />
+            <mxPoint x="201" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-8" value="JD Token" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" target="honSXBm70pdKDiRq7yCq-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="206" y="214" as="sourcePoint" />
+            <mxPoint x="286" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-9" value="j校验JD Token" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" target="honSXBm70pdKDiRq7yCq-4">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="420" y="233" as="sourcePoint" />
+            <mxPoint x="633.5" y="233" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-10" value="交易Token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="honSXBm70pdKDiRq7yCq-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="609" y="310" as="sourcePoint" />
+            <mxPoint x="529" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-17" value="j交易Token" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" target="honSXBm70pdKDiRq7yCq-5">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="421" y="366" as="sourcePoint" />
+            <mxPoint x="501" y="366" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-19" value="一次性Token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="honSXBm70pdKDiRq7yCq-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="439" as="sourcePoint" />
+            <mxPoint x="710" y="439" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-20" value="一次性token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="honSXBm70pdKDiRq7yCq-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="478" as="sourcePoint" />
+            <mxPoint x="340" y="478" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="407" y="343" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="200" y="536" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="honSXBm70pdKDiRq7yCq-27" value="携带一次性token跳转到目标页面" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="honSXBm70pdKDiRq7yCq-26" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="516" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="235" y="516" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
